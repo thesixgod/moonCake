@@ -217,7 +217,7 @@ var gameMonitor = {
             var wxData = {
                 "appId": "", 
                 "imgUrl" : "static/img/icon.png",
-                "link" : "https://www.haju.ocm",
+                "link" : "http://mooncake.duapp.com",
                 "desc" : "进击的玉兔",
                 "title" : "“玩玉兔 抢月饼”"
             };
@@ -226,7 +226,7 @@ var gameMonitor = {
             var wxDataPyq ={
             		"appId": "",
                 "imgUrl" : "static/img/icon.png",
-                "link" : "https://www.haju.ocm",
+                "link" : "http://mooncake.duapp.com",
                 "desc" : "“玩玉兔 抢月饼”",
                 "title" : "进击的玉兔"
             }
